@@ -105,9 +105,9 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding-top: 9vw;
+  padding-top: 14vw;
   padding-left: 20vw;
-  padding: 9vw 30vw;
+  padding: 14vw 30vw;
   box-sizing: border-box;
   width: 100%;
 }
