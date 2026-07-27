@@ -1,0 +1,44 @@
+[
+  {
+    "title": "PC Aquarium Blanc",
+    "price": 1450,
+    "img": "https://via.placeholder.com/300x200/ffffff/000000?text=PC+Aquarium+Blanc",
+    "url": "pc_blanc_aquarium.html"
+  },
+  {
+    "title": "PC Block Noir",
+    "price": 950,
+    "img": "https://via.placeholder.com/300x200/000000/ffffff?text=PC+Block+Noir",
+    "url": "pc_block_noir.html"
+  },
+  {
+    "title": "PC Custom (Pièces 3D sur mesure)",
+    "price": 1100,
+    "img": "https://via.placeholder.com/300x200/5e5bf4/ffffff?text=PC+Custom+3D",
+    "url": "pc_custom.html"
+  },
+  {
+    "title": "PC Gamer - Édition Zorin OS",
+    "price": 850,
+    "img": "https://via.placeholder.com/300x200/20b2aa/ffffff?text=PC+Zorin+OS",
+    "url": "index.html"
+  },
+  {
+    "title": "PC Ryzen + NVIDIA",
+    "price": 1250,
+    "img": "https://via.placeholder.com/300x200/ff4500/ffffff?text=Ryzen+%2B+NVIDIA",
+    "url": "pc ryzen nividia.html"
+  },
+  {
+    "title": "PC Intel CPU + GPU AMD",
+    "price": 890,
+    "img": "https://via.placeholder.com/300x200/0055ff/ffffff?text=Intel+%2B+AMD",
+    "url": "amd.html"
+  },
+  {
+    "title": "PC Aquarium Noir",
+    "price": 1600,
+    "img": "https://via.placeholder.com/300x200/222222/ffffff?text=PC+Aquarium+Noir",
+    "url": "pc_aquarium_noir.html"
+  }
+]
